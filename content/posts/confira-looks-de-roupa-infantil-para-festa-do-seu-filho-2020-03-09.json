@@ -5,5 +5,18 @@
   "thumbnail": "/img/uploads/banner-lojaintegrada.jpg",
   "alt": "Blue Kids | Roupa Social Para Meninos",
   "meta_title": "CONFIRA LOOKS DE ROUPA INFANTIL PARA FESTA DO SEU FILHO",
-  "meta_description": "Quando o assunto é **festa para as crianças**, pensar numa **roupa infantil confortável** e que permita que a criança brinque sem se sentir presa com os amiguinhos é fundamental."
+  "meta_description": "Quando o assunto é **festa para as crianças**, pensar numa **roupa infantil confortável** e que permita que a criança brinque sem se sentir presa com os amiguinhos é fundamental.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    }
+  ]
 }

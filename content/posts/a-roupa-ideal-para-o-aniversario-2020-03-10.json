@@ -5,5 +5,18 @@
   "thumbnail": "/img/uploads/roupa-festa-infantil-para-menino.jpg",
   "alt": "roupa festa infantil menino",
   "meta_title": "A roupa ideal para o aniversário do seu bebê",
-  "meta_description": "A festas de aniversário do seu filho está chegando, que delícia! Seu pequeno já deve estar ansioso por este dia tão especial, quando receberá os amiguinhos para muita diversão e doses exageradas de fofura e gostosura"
+  "meta_description": "A festas de aniversário do seu filho está chegando, que delícia! Seu pequeno já deve estar ansioso por este dia tão especial, quando receberá os amiguinhos para muita diversão e doses exageradas de fofura e gostosura",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    }
+  ]
 }

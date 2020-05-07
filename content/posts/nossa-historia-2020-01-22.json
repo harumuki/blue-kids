@@ -4,5 +4,18 @@
   "thumbnail": "/img/uploads/logo.png",
   "body": "![Nossa historia](/img/uploads/logobluekidsminimum.jpg \"Nossa historia | Blue Kids\")\n\nA loja de roupa infantil Blue Kids surgiu no ano de 2017 com a finalidade de comercializar produtos de qualidade e se destacar com excelência de atendimento ao cliente. Nossos valores são:\n\n1. Respeito ao cliente; \n2. ,Cumprimento de prazos estabelecidos;\n3. Segurança nas transações online,\n\nE se durante a compra você tiver qualquer problema, devolveremos seu dinheiro.\n\n ESSA É A NOSSA GARANTIA",
   "meta_title": "Nossa história | Blue Kids",
-  "meta_description": "Nossa história | Blue Kids. loja de roupa infantil. roupa social infantil temática para meninos"
+  "meta_description": "Nossa história | Blue Kids. loja de roupa infantil. roupa social infantil temática para meninos",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    }
+  ]
 }
