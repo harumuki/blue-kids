@@ -1,22 +1,22 @@
 {
-  "store_id": 1058,
-  "name": "Blue Kids",
   "domain": "blue-kids.netlify.app",
-  "short_name": "bluekids",
-  "description": "Blue Kids - Roupa Social Infantil.",
+  "currency_symbol": "R$",
   "primary_color": "#0954c3",
-  "secondary_color": "#67adeb",
-  "bg_color": "#fff",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "cerulean"
   },
+  "bg_color": "#fff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "/img/uploads/favicon.png",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/uploads/logobluekidsminimum.jpg",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Blue Kids",
+  "short_name": "bluekids",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#67adeb",
+  "icon": "/img/icon.png",
+  "store_id": 1058,
+  "description": "Blue Kids - Roupa Social Infantil.",
+  "large_icon": "/img/uploads/logobluekidsminimum.jpg"
 }
