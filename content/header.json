@@ -1,17 +1,17 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Nós vamos encantar você !",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "Blog Blue Kids",
+        "link": "/blog"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Sobre nós",
+        "link": "/pages/sobre-nos"
       }
     ],
     "phone_wpp": true,
@@ -19,7 +19,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6
+    "random": 0
   },
   "search_input": true
 }

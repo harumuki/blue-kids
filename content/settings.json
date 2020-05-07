@@ -11,9 +11,9 @@
     "bootswatch": "_"
   },
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
+  "mini_logo": "/img/uploads/favicon.png",
   "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
+  "large_icon": "/img/uploads/logobluekidsminimum.jpg",
   "favicon": "/img/uploads/favicon.png",
   "lang": "pt_br",
   "currency": "BRL",

@@ -1,1 +1,54 @@
 // Add your custom CSS here.
+// font
+body {
+font-family: 'Open Sans', sans-serif;
+}
+// centralizando
+.products-carousel h3, .products-carousel .product-card__prices, .product-card h3, .product-card .product-card__prices,.product-card .prices__discount{
+  text-align: center;
+}
+.search-engine .prices.product-card__prices {
+  text-align: unset;
+}
+// icons header
+#user-button svg, #cart-button svg {
+  color: #212529
+}
+// search
+#search-form {
+  border: 1px solid #ced4da;
+  border-radius: .3rem;
+}
+.header__search-btn svg {
+  color: #67adeb
+}
+// variations border css
+.variations__option {
+  border: 2px solid #343a40 !important;
+}
+.variations__option--selected:not(:disabled) {
+  border-color: var(--secondary) !important;
+}
+//cart freight
+.shipping-calculator__services .list-group-item.active {
+  background-color: rgb(35, 166, 215);
+}
+
+// desktop acima de 14 polegadas
+@media  screen and (min-width: 1368px) {
+}
+
+//desktop normal size
+@media  screen and (min-width: 998px) and (max-width: 1367px) {
+
+}
+// apenas tablet
+@media screen and (min-width: 481px) and (max-width: 997px) {
+
+}
+// apenas mobile
+@media screen and (max-width: 480px) {
+  #product-block .product__buy > button.btn-lg {
+    width: 100%
+  }
+}
