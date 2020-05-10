@@ -34,7 +34,7 @@
       "banners": [
         {
           "img": "/img/uploads/banner-antenado1.jpg",
-          "mobile_img": ""
+          "mobile_img": "/img/uploads/banner-antenado1.jpg"
         }
       ]
     },
