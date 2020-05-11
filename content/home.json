@@ -20,7 +20,12 @@
       "enabled": true
     },
     {
-      "type": "banners-grid"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-regua-blue-kids.jpg"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
