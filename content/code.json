@@ -1,5 +1,5 @@
 {
   "css": "#ws_icon_chat {\n    position: fixed;\n    bottom: 10px;\n    left: 15px;\n    z-index: 2000;\n    cursor: pointer;\n    outline: 0 !important;\n}\n#ws_icon_chat img {\n    width: 80px !important;",
-  "html_head": "<link href=\"https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap\" rel=\"stylesheet\"> ",
+  "html_head": "append('<a href=\"https://WEB.whatsapp.com/send?phone=+5521986397734&text=Olá tudo bem? No que posso te ajudar?\" target=\"_blank\" id=\"ws_icon_chat\"><img src=\"https://cdn.ecvol.com/s/www.bluekids.com.br/uploads/wpp-online.png\"></a>'),\n    $(window).width() < 400 && $(\"#ws_icon_chat\").attr(\"href\", \"https://API.whatsapp.com/send?phone=+5521986397734&text=Olá tudo bem? No que posso te ajudar?\"),\n    setTimeout(function () {\n        $(\".product-main-image\").trigger(\"zoom.destroy\");\n    }, 600);\n",
   "html_body": "append('<a href=\"https://WEB.whatsapp.com/send?phone=+5521986397734&text=Olá tudo bem? No que posso te ajudar?\" target=\"_blank\" id=\"ws_icon_chat\"><img src=\"https://cdn.ecvol.com/s/www.bluekids.com.br/uploads/wpp-online.png\"></a>'),$(window).width()<400&&$(\"#ws_icon_chat\").attr(\"href\",\"https://API.whatsapp.com/send?phone=+5521986397734&text=Olá tudo bem? No que posso te ajudar?\"),setTimeout(function(){$(\".product-main-image\").trigger(\"zoom.destroy\")},600);"
 }
