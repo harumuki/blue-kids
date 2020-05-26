@@ -36,7 +36,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ursinho-aviador1.jpg"
+          "img": "/img/uploads/ursinho-aviador1.jpg",
+          "mobile_img": "/img/uploads/conjunto-roupa-social-infantil-blue-kids.jpg"
         }
       ]
     },
