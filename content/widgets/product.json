@@ -1,7 +1,7 @@
 {
   "pkg": "@ecomplus/widget-product",
   "active": true,
-  "desktopOnly": false,
+  "desktopOnly": true,
   "options": {
     "buyText": "",
     "buy": ""
