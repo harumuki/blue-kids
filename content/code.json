@@ -1,5 +1,5 @@
 {
   "css": "",
   "html_head": "<link href=\"https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap\" rel=\"stylesheet\"> ",
-  "html_body": ""
+  "html_body": "append('<a href=\"https://WEB.whatsapp.com/send?phone=+5521986397734&text=Olá tudo bem? No que posso te ajudar?\" target=\"_blank\" id=\"ws_icon_chat\"><img src=\"https://cdn.ecvol.com/s/www.bluekids.com.br/uploads/wpp-online.png\"></a>'),$(window).width()<400&&$(\"#ws_icon_chat\").attr(\"href\",\"https://API.whatsapp.com/send?phone=+5521986397734&text=Olá tudo bem? No que posso te ajudar?\"),setTimeout(function(){$(\".product-main-image\").trigger(\"zoom.destroy\")},600);"
 }
