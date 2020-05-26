@@ -1,5 +1,5 @@
 {
   "css": "#ws_icon_chat {\n    position: fixed;\n    bottom: 10px;\n    left: 15px;\n    z-index: 2000;\n    cursor: pointer;\n    outline: 0 !important;\n}\n#ws_icon_chat img {\n    width: 80px !important;\n}",
   "html_head": "",
-  "html_body": "<script>\n$(\"body\").append('<a href=\"https://WEB.whatsapp.com/send?phone=+5521986397734&text=Olá tudo bem? No que posso te ajudar?\" target=\"_blank\" id=\"ws_icon_chat\"><img src=\"https://cdn.ecvol.com/s/www.bluekids.com.br/uploads/wpp-online.png\"></a>'),$(window).width()<400&&$(\"#ws_icon_chat\").attr(\"href\",\"https://API.whatsapp.com/send?phone=+5521986397734&text=Olá tudo bem? No que posso te ajudar?\")\n</script>"
+  "html_body": "<script>\n$(\"body\").append('<a href=\"https://WEB.whatsapp.com/send?phone=+5521986397734&text=Olá tudo bem? No que posso te ajudar?\" target=\"_blank\" id=\"ws_icon_chat\"><img src=\"https://e-com.club/mass/ftp/tutoriais/whatsapp-1.png\"></a>'),$(window).width()<400&&$(\"#ws_icon_chat\").attr(\"href\",\"https://API.whatsapp.com/send?phone=+5521986397734&text=Olá tudo bem? No que posso te ajudar?\")\n</script>"
 }
