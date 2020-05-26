@@ -5,6 +5,14 @@
       "enabled": true
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2020-05-26T22:57:48.091Z",
+      "end": "2020-07-31T22:57:48.128Z",
+      "notes": "Imperdível",
+      "offers": []
+    },
+    {
       "type": "product-block",
       "enabled": true
     },
