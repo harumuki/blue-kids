@@ -21,11 +21,7 @@
     },
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-regua-blue-kids.jpg"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "collection-shelf",
