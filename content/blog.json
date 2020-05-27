@@ -13,6 +13,20 @@
     {
       "type": "blog",
       "enabled": false
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5e286b0b62887026009bf130",
+      "sort": "news",
+      "title": "Lançamentos Blue Kids"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5e705db57e6552461488d8c5",
+      "sort": "news",
+      "title": "Smash The Cake"
     }
   ]
 }
