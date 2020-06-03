@@ -1,11 +1,15 @@
 {
   "sections": [
     {
-      "type": "page-title"
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2020-06-03T00:04:03.567Z",
+      "end": "2020-07-01T00:04:03.598Z",
+      "notes": "Tempo Limitado."
     },
     {
       "type": "product-block",
