@@ -26,15 +26,6 @@
       "sort": "sales"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/ursinho-aviador1.jpg",
-          "mobile_img": "/img/uploads/conjunto-roupa-social-infantil-blue-kids.jpg"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5e31f8c962887026009eaee0",
@@ -45,15 +36,6 @@
       "shuffle": true,
       "collection_id": "5e31f85162887026009eaedd",
       "sort": "sales"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-antenado1.jpg",
-          "mobile_img": "/img/uploads/roupa-social-infantil-blue-kids.jpg"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
@@ -84,10 +66,6 @@
       "shuffle": true,
       "collection_id": "5e705db57e6552461488d8c5",
       "sort": "sales"
-    },
-    {
-      "type": "blog",
-      "enabled": false
     }
   ]
 }
