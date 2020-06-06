@@ -150,6 +150,19 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2020-06-06T22:47:52.665Z",
+          "end": "2020-06-06T22:47:52.749Z",
+          "img": "/img/uploads/08.png",
+          "link": "https://bluekids.com.br/colecao-smash-the-cake",
+          "alt": "coleção roupa infantil smash the cake"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/jogos-atracoes-shows-e-concursos-para-toda-a-familia-.jpg",
