@@ -33,12 +33,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5e31f8c962887026009eaee0",
-      "sort": "sales"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -50,12 +44,6 @@
           "alt": "coleção roupa infantil fundo do mar"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5e31f85162887026009eaedd",
-      "sort": "sales"
     },
     {
       "type": "banner-slider",
@@ -71,12 +59,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5e31fb8f62887026009eaee4",
-      "sort": "sales"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -90,12 +72,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5e31fc1362887026009eaee6",
-      "sort": "sales"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -107,18 +83,6 @@
           "alt": "coleção conjunto roupa infantil ursinhos"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5e31fd1962887026009eaeea",
-      "sort": "sales"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5e31f7ec62887026009eaedb",
-      "sort": "sales"
     },
     {
       "type": "banner-slider",
