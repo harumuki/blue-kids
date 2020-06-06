@@ -7,7 +7,7 @@
       "autoplay": 3000,
       "slides": [
         {
-          "img": "/img/uploads/01.png",
+          "img": "/img/uploads/01-1-.png",
           "link": "https://bluekids.com.br/search?term=safari",
           "alt": "Novidades Blue Kids",
           "start": "",
@@ -20,22 +20,23 @@
       "enabled": false
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5e286a5362887026009bf0fb",
+      "sort": "sales"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/jogos-atracoes-shows-e-concursos-para-toda-a-familia-.jpg",
-          "mobile_img": "/img/uploads/10-1-.jpg"
+          "img": "/img/uploads/02-1-.png",
+          "link": "https://bluekids.com.br/colecao-safari",
+          "alt": "coleção roupa infantil safari"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5e286a5362887026009bf0fb",
-      "sort": "sales"
     },
     {
       "type": "collection-shelf",
@@ -44,16 +45,55 @@
       "sort": "sales"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/03.png",
+          "link": "https://bluekids.com.br/colecao-fundo-do-mar",
+          "alt": "coleção roupa infantil fundo do mar"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5e31f85162887026009eaedd",
       "sort": "sales"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2020-06-06T22:31:43.297Z",
+          "end": "2020-06-06T22:31:43.356Z",
+          "img": "/img/uploads/05.png",
+          "link": "https://bluekids.com.br/colecao-baloes-e-aventura",
+          "alt": "coleção roupa infantil balões e balonismo"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5e31fb8f62887026009eaee4",
       "sort": "sales"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2020-06-06T22:33:40.829Z",
+          "end": "2020-06-06T22:33:40.893Z",
+          "img": "/img/uploads/04.png",
+          "link": "https://bluekids.com.br/colecao-circo-magico",
+          "alt": "coleção roupa infantil circo e galinha pintadinha"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -78,6 +118,18 @@
       "shuffle": true,
       "collection_id": "5e705db57e6552461488d8c5",
       "sort": "sales"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/jogos-atracoes-shows-e-concursos-para-toda-a-familia-.jpg",
+          "mobile_img": "/img/uploads/10-1-.jpg"
+        }
+      ]
     }
   ]
 }
