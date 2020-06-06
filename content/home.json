@@ -20,11 +20,14 @@
       "enabled": false
     },
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
         {
-          "mobile_img": "/img/uploads/10-1-.jpg",
-          "img": "/img/uploads/10-1-.jpg"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/jogos-atracoes-shows-e-concursos-para-toda-a-familia-.jpg",
+          "mobile_img": "/img/uploads/10-1-.jpg"
         }
       ]
     },
