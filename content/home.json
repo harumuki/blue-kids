@@ -115,6 +115,12 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5e31fd1962887026009eaeea",
+      "sort": "sales"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
