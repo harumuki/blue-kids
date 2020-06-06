@@ -102,6 +102,19 @@
       "sort": "sales"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2020-06-06T22:35:26.367Z",
+          "end": "2020-06-06T22:35:26.439Z",
+          "img": "/img/uploads/06.png",
+          "link": "https://bluekids.com.br/colecao-ursinhos",
+          "alt": "coleção conjunto roupa infantil ursinhos"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5e31fd1962887026009eaeea",
