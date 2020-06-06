@@ -1,6 +1,6 @@
 {
-  "meta_title": "Roupas e Acessórios para Bebês e Crianças | Blue Kids Boutique Infantil",
-  "meta_description": "Roupas e Acessórios para Bebês e Crianças | Camisaria Blue Kids Boutique Infantil",
+  "meta_title": "Roupas e Acessórios para Bebês e Crianças | Blue Kids Camisaria Infantil",
+  "meta_description": "Roupas e Acessórios para Bebês e Crianças | Blue Kids Camisaria Infantil",
   "sections": [
     {
       "type": "banner-slider",
@@ -17,7 +17,7 @@
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "collection-shelf",
