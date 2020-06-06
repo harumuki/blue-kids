@@ -127,12 +127,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5e705db57e6552461488d8c5",
-      "sort": "sales"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -144,6 +138,12 @@
           "alt": "coleção roupa infantil smash the cake"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5e705db57e6552461488d8c5",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
