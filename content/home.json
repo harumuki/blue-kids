@@ -20,26 +20,11 @@
       "enabled": false
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
+      "type": "banners-grid",
+      "banners": [
         {
-          "start": "",
-          "end": "",
           "mobile_img": "/img/uploads/10-1-.jpg",
           "img": "/img/uploads/10-1-.jpg"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2020-06-06T05:37:49.804Z",
-          "end": "2020-06-06T05:37:49.870Z",
-          "img": "/img/uploads/10-3-.jpg",
-          "mobile_img": "/img/uploads/10-3-.jpg"
         }
       ]
     },
