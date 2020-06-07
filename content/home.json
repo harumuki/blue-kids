@@ -16,6 +16,10 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner_regua.webp"
+    },
+    {
       "type": "info-bar",
       "enabled": false
     },
