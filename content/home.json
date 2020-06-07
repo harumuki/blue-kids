@@ -16,15 +16,11 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2020-06-07T22:23:22.814Z",
-          "end": "2020-06-07T22:23:22.884Z",
-          "img": "/img/uploads/banner-regua-blue-kids.jpg"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-regua-blue-kids.jpg",
+      "mobile_img": "/img/uploads/banner-regua-blue-kids.jpg",
+      "link": "https://bluekids.com.br/pages/trocas",
+      "alt": "banner regua roupa social infantil"
     },
     {
       "type": "collection-shelf",
