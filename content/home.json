@@ -83,6 +83,10 @@
       "shuffle": true,
       "collection_id": "5e286a5362887026009bf0fb",
       "sort": "sales"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/08.png"
     }
   ]
 }
