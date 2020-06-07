@@ -55,3 +55,10 @@ font-family: 'Open Sans', sans-serif;
 #product-block .product__buy {
   padding-top: 1rem
 }
+.product-card__buy.fade {
+  opacity: 1;
+}
+.product-card--small .product-card__buy {
+  position: static;
+  display: block;
+}
