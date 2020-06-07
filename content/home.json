@@ -38,36 +38,10 @@
       "sort": "sales"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/02-1-.png",
-          "link": "https://bluekids.com.br/colecao-safari",
-          "alt": "coleção roupa infantil safari"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5e31f8c962887026009eaee0",
       "sort": "sales"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/03.png",
-          "link": "https://bluekids.com.br/colecao-fundo-do-mar",
-          "alt": "coleção roupa infantil fundo do mar"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
@@ -76,36 +50,10 @@
       "sort": "sales"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/05.png",
-          "link": "https://bluekids.com.br/colecao-baloes-e-aventura",
-          "alt": "coleção roupa infantil balões e balonismo"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5e31fb8f62887026009eaee4",
       "sort": "sales"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/04.png",
-          "link": "https://bluekids.com.br/colecao-circo-magico",
-          "alt": "coleção roupa infantil circo e galinha pintadinha"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
@@ -114,55 +62,15 @@
       "sort": "sales"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/06.png",
-          "link": "https://bluekids.com.br/colecao-ursinhos",
-          "alt": "coleção conjunto roupa infantil ursinhos"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5e31fd1962887026009eaeea",
       "sort": "sales"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/07.png",
-          "link": "https://bluekids.com.br/colecao-bermudas",
-          "alt": "coleção bermuda social infantil para menino"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5e31f7ec62887026009eaedb"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/08.png",
-          "link": "https://bluekids.com.br/colecao-smash-the-cake",
-          "alt": "coleção roupa infantil smash the cake",
-          "mobile_img": ""
-        }
-      ]
     },
     {
       "type": "collection-shelf",
