@@ -16,14 +16,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/02-1-.png"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": false
     },
