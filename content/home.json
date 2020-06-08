@@ -64,6 +64,12 @@
       "sort": "sales"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/04-compressed.jpg",
+      "link": "https://bluekids.com.br/colecao-circo-magico",
+      "alt": "coleção roupa infantil festa dinossauros e balões"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5e31fc1362887026009eaee6",
