@@ -5,11 +5,11 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "document-banner",
+      "enabled": true
     },
     {
-      "type": "document-banner",
-      "enabled": false
+      "type": "page-title"
     },
     {
       "type": "collection-retail",
@@ -17,7 +17,7 @@
     },
     {
       "type": "document-description",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
