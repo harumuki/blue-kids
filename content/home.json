@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 3000,
+      "autoplay": 2000,
       "slides": [
         {
           "img": "/img/uploads/banner-topo-bluekids.jpeg",
@@ -14,15 +14,15 @@
           "end": ""
         },
         {
-          "start": "2020-06-08T03:12:49.257Z",
-          "end": "2020-06-08T03:12:49.330Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/06-compressed.jpg",
           "link": "https://bluekids.com.br/search?term=ursinh",
           "alt": "conjunto infantil tematico"
         },
         {
-          "start": "2020-06-08T03:14:30.487Z",
-          "end": "2020-06-08T03:14:30.548Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/03-compressed.jpg",
           "link": "https://bluekids.com.br/search?",
           "alt": "roupa social infantil fundo do mar e baby shark"
