@@ -1,11 +1,11 @@
 {
   "domain": "www.bluekids.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#049a31",
+  "primary_color": "#2c55fc",
   "theme": {
     "bootswatch": "minty"
   },
-  "bg_color": "#2c55fc",
+  "bg_color": "#0bd022",
   "logo": "/img/uploads/logo.png",
   "name": "Blue Kids",
   "short_name": "bluekids",
@@ -14,7 +14,7 @@
   "mini_logo": "/img/uploads/favicon.png",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#2c55fc",
+  "secondary_color": "#46b6fb",
   "icon": "/img/uploads/logo.png",
   "store_id": 1058,
   "description": "Blue Kids - Roupa Social Infantil.",
