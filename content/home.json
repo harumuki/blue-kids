@@ -52,6 +52,12 @@
       "sort": "sales"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/05-compressed.jpg",
+      "link": "https://bluekids.com.br/colecao-baloes-e-aventura",
+      "alt": "coleção roupa festa infantil balonismo"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5e31fb8f62887026009eaee4",
