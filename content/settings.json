@@ -1,4 +1,5 @@
 {
+  "store_id": 1058,
   "domain": "www.bluekids.com.br",
   "currency_symbol": "R$",
   "primary_color": "#2b5797",
@@ -17,7 +18,6 @@
   "country_code": "BR",
   "secondary_color": "#2d89ef",
   "icon": "/img/uploads/logo.png",
-  "store_id": 1058,
   "description": "Blue Kids - Roupa Social Infantil.",
   "large_icon": "/img/uploads/logobluekidsminimum.jpg"
 }
