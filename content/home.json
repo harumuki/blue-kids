@@ -45,6 +45,13 @@
     },
     {
       "type": "responsive-banner",
+      "mobile_img": "/img/uploads/dos-moreias.jpg",
+      "alt": "conjunto camisa gola polo com bermuda infantil",
+      "link": "https://www.bluekids.com.br/conjunto-camisa-polo",
+      "img": "/img/uploads/conjunto-polo-1-.jpg"
+    },
+    {
+      "type": "responsive-banner",
       "img": "/img/uploads/02-2-compressed.jpg",
       "mobile_img": "/img/uploads/002-1-compressed.jpg",
       "alt": "conjunto roupa de festa infantil safari"
