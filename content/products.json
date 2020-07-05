@@ -5,6 +5,10 @@
       "enabled": true
     },
     {
+      "type": "product-block",
+      "enabled": true
+    },
+    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2020-07-04T03:00:00.000Z",
@@ -14,10 +18,6 @@
         "5e25e44762887026009bd7b7",
         "5e27713f62887026009bde15"
       ]
-    },
-    {
-      "type": "product-block",
-      "enabled": true
     },
     {
       "type": "related-products",
