@@ -12,10 +12,12 @@
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2020-07-05T21:09:43.217Z",
-      "end": "2020-07-07T03:00:00.000Z",
+      "end": "2020-07-31T03:00:00.000Z",
       "offers": [
         "5eff9a4a14ff772fde7d2cdd",
-        "5eff8f2f14ff772fde7d27c0"
+        "5eff8f2f14ff772fde7d27c0",
+        "5eff8b9414ff772fde7d2657",
+        "5eff966314ff772fde7d2b44"
       ],
       "notes": "COMPRE JUNTO GANHE 10% DE DESCONTO"
     },
