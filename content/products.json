@@ -14,10 +14,7 @@
       "start": "2020-07-04T03:00:00.000Z",
       "end": "2020-07-07T03:00:00.000Z",
       "notes": "Compre conjunto camisa polo e ganhe 10% sobre o total da compra",
-      "offers": [
-        "5e25e44762887026009bd7b7",
-        "5e27713f62887026009bde15"
-      ]
+      "offers": []
     },
     {
       "type": "related-products",
