@@ -18,8 +18,15 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 4,
+    "featured": [
+      "/bermuda-social?Bermuda Social",
+      "/camisa-social-manga-curta?Camisa Social Manga Curta",
+      "/conjunto-camisa-polo?Conjunto Camisa Polo",
+      "/conjunto-com-bermuda?Conjunto Com Bermuda",
+      "/conjunto-com-calca?Conjunto com Calça",
+      "/smash-the-cake?Smash The Cake"
+    ],
+    "random": 6,
     "full_width": true
   },
   "search_input": true
