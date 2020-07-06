@@ -10,7 +10,7 @@
     },
     {
       "type": "offers-timer",
-      "max_hours": 24,
+      "max_hours": 12,
       "start": "",
       "end": "2020-07-31T03:00:00.000Z",
       "offers": [
