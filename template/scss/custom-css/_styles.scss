@@ -56,16 +56,6 @@ font-family: 'Open Sans', sans-serif;
   padding-top: 1rem
 }
 // pinning buy button on the screen - Aluizio
-.product-card__buy.fade {
-  opacity: 1;
-  color:rgb(61, 98, 158);
-}
-
-
-.product-card--small .product-card__buy {
-  position: static;
-  display: block;
-}
 
 button.btn.btn-lg.btn-primary {
 width: 100%;
@@ -81,14 +71,14 @@ a.btn.btn-secondary {
   height: 3rem;
   font-size: 14px;      
   color: rgb(13, 0, 0);
-
   background-color:rgb(255, 255, 255);
 }
+
 div.progress-bar.progress-bar-striped {
 
   background-color: rgb(255, 187, 0);
-  color: black
 }
+
 .product__free-shipping-from {
 
   color: rgb(61, 98, 158);
