@@ -23,7 +23,13 @@
   "stamps": [
     {
       "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
+      "alt": "Secure connection",
+      "link": ""
+    },
+    {
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.bluekids.com.br",
+      "src": "/img/uploads/selo-google-site-verificado.png",
+      "alt": "site seguro bluekids"
     }
   ],
   "payment_methods": {
