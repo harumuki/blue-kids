@@ -16,7 +16,7 @@
   "contacts": {
     "title": "Contatos",
     "phone_wpp": true,
-    "socials": false,
+    "socials": true,
     "email": true,
     "address": false
   },
