@@ -3,11 +3,27 @@
   "meta_description": "Roupas e Acessórios para Bebês e Crianças | Blue Kids Camisaria Infantil",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/03-1-compressed.jpg",
-      "link": "https://www.bluekids.com.br/search?term=fundo+do+mar",
-      "alt": "roupa infantil baby shark",
-      "mobile_img": "/img/uploads/001-compressed.jpg"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/03-1-compressed.jpg",
+          "link": "https://www.bluekids.com.br/search?term=fundo+do+mar",
+          "alt": "roupa social infantil fundo do mar",
+          "mobile_img": "/img/uploads/001-compressed.jpg"
+        },
+        {
+          "img": "/img/uploads/02-2-compressed.jpg",
+          "mobile_img": "/img/uploads/002-1-compressed.jpg",
+          "link": "https://www.bluekids.com.br/search?term=safari",
+          "alt": "roupa social infantil safari"
+        },
+        {
+          "img": "/img/uploads/01-1-.png",
+          "mobile_img": "/img/uploads/minibanner2-topo-bluekids.webp",
+          "link": "https://www.bluekids.com.br/search?term=bal%C3%B5es",
+          "alt": "roupa social infantil balões"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
