@@ -7,20 +7,20 @@
       "autoplay": 6000,
       "slides": [
         {
-          "start": "2020-08-29T23:22:38.527Z",
-          "end": "2020-08-29T23:22:38.627Z",
+          "start": "2020-08-29T23:33:45.269Z",
+          "end": "2020-12-31T23:22:38.627Z",
           "img": "/img/uploads/03-1-compressed.jpg",
           "mobile_img": "/img/uploads/001-compressed.jpg"
         },
         {
-          "start": "2020-08-29T23:23:27.644Z",
-          "end": "2020-08-29T23:23:27.733Z",
+          "start": "2020-08-29T23:34:14.470Z",
+          "end": "2020-12-31T23:23:27.733Z",
           "img": "/img/uploads/02-2-compressed.jpg",
           "mobile_img": "/img/uploads/002-1-compressed.jpg"
         },
         {
-          "start": "2020-08-29T23:23:57.818Z",
-          "end": "2020-08-29T23:23:57.910Z",
+          "start": "2020-08-29T23:34:45.551Z",
+          "end": "2020-12-31T23:23:57.910Z",
           "img": "/img/uploads/05-compressed.jpg",
           "mobile_img": "/img/uploads/minibanner2-topo-bluekids.webp"
         }
