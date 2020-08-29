@@ -34,12 +34,6 @@
       "headless": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/02-2-compressed.jpg",
-      "mobile_img": "/img/uploads/002-1-compressed.jpg",
-      "alt": "conjunto roupa de festa infantil safari"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5e31f8c962887026009eaee0",
