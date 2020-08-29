@@ -3,25 +3,26 @@
   "meta_description": "Roupas e Acessórios para Bebês e Crianças | Blue Kids Camisaria Infantil",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 6000,
+      "slides": [
         {
+          "start": "2020-08-29T23:22:38.527Z",
+          "end": "2020-08-29T23:22:38.627Z",
           "img": "/img/uploads/03-1-compressed.jpg",
-          "link": "https://www.bluekids.com.br/search?term=fundo+do+mar",
-          "alt": "roupa social infantil fundo do mar",
           "mobile_img": "/img/uploads/001-compressed.jpg"
         },
         {
+          "start": "2020-08-29T23:23:27.644Z",
+          "end": "2020-08-29T23:23:27.733Z",
           "img": "/img/uploads/02-2-compressed.jpg",
-          "mobile_img": "/img/uploads/002-1-compressed.jpg",
-          "link": "https://www.bluekids.com.br/search?term=safari",
-          "alt": "roupa social infantil safari"
+          "mobile_img": "/img/uploads/002-1-compressed.jpg"
         },
         {
-          "img": "/img/uploads/01-1-.png",
-          "mobile_img": "/img/uploads/minibanner2-topo-bluekids.webp",
-          "link": "https://www.bluekids.com.br/search?term=bal%C3%B5es",
-          "alt": "roupa social infantil balões"
+          "start": "2020-08-29T23:23:57.818Z",
+          "end": "2020-08-29T23:23:57.910Z",
+          "img": "/img/uploads/05-compressed.jpg",
+          "mobile_img": "/img/uploads/minibanner2-topo-bluekids.webp"
         }
       ]
     },
