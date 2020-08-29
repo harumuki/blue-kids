@@ -50,7 +50,7 @@
       "img": "/img/uploads/03-1-compressed.jpg",
       "link": "https://bluekids.com.br/conjunto-com-bermuda",
       "alt": "banner coleção roupa infantil tematica fundo do mar",
-      "mobile_img": "/img/uploads/001-compressed.jpg"
+      "mobile_img": ""
     },
     {
       "type": "collection-shelf",
@@ -58,13 +58,6 @@
       "collection_id": "5e31f85162887026009eaedd",
       "sort": "sales",
       "headless": true
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/97edef.jpg",
-      "link": "https://www.bluekids.com.br/search?term=cal%C3%A7a",
-      "alt": "roupa social infantil menino com calça",
-      "mobile_img": "/img/uploads/liquidacao.jpg"
     },
     {
       "type": "responsive-banner",
