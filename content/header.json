@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "COMPRA SEGURA E DEVOLUÇÃO GARANTIDA",
-    "link": "https://www.bluekids.com.br/pages/trocas"
+    "link": "https://www.bluekids.com.br/pages/trocas",
+    "background": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
