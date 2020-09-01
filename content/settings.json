@@ -1,7 +1,7 @@
 {
   "domain": "www.bluekids.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#0283fd",
+  "primary_color": "#1166e8",
   "theme": {
     "bootswatch": "sketchy",
     "custom": "niche-baby"
@@ -15,7 +15,7 @@
   "mini_logo": "/img/uploads/favicon.png",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#0856e7",
+  "secondary_color": "#4c89e3",
   "icon": "/img/uploads/logo.png",
   "store_id": 1058,
   "description": "A BLUE KIDS surgiu no ano de 2017 com a finalidade de produzir e comercializar roupa infantil de qualidade, se destacando com excelência de atendimento ao cliente, proporcionando a melhor e segura experiência de compra pela internet.",
