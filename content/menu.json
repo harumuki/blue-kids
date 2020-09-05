@@ -1,9 +1,12 @@
 {
   "sort_categories": [
+    "conjunto-camisa-polo",
     "conjunto-com-bermuda",
     "conjunto-com-calca",
+    "batinhas",
+    "bermuda-social",
     "smash-the-cake",
-    "bermuda-social"
+    "body"
   ],
   "phone_wpp": true,
   "socials": true
