@@ -25,6 +25,11 @@
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection",
       "link": ""
+    },
+    {
+      "link": "https://safeweb.norton.com/report/show?url=www.bluekids.com.br",
+      "src": "/img/uploads/nortonsafeweb.png",
+      "alt": "Selo Segurança Blue Kids"
     }
   ],
   "payment_methods": {
