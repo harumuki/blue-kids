@@ -9,7 +9,7 @@
     },
     {
       "type": "document-banner",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "category-retail",
@@ -17,7 +17,7 @@
     },
     {
       "type": "document-description",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
